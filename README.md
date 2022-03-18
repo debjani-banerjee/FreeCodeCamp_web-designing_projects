@@ -1,1 +1,1 @@
-# FreeCodeCamp_web-devesigning_projects
+# FreeCodeCamp_web-designing_projects
